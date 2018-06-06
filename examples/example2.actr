@@ -1,0 +1,42 @@
+/*
+EXAMPLE 2: iconic gesture as the animation response
+triggers the following animations in Unity:
+
+melissa_mouth_neutral_500
+melissa_mouth_a_500
+melissa_mouth_e_500
+melissa_mouth_c_500
+melissa_mouth_neutral_500
+melissa_mouth_m_500
+melissa_mouth_e_500
+melissa_mouth_c_500
+melissa_mouth_f_500
+melissa_mouth_c_500
+melissa_mouth_neutral_500
+melissa_iconic_thumbsup_d2000
+
+*/
+
+{ "sequence": {
+	"element": "melissa",
+	"total_duration": 2000,
+	"start_delay": 0,
+	"speech": "That's perfect!",
+	"phoneme": "ðæts pərfɛkt!",
+	"visemes": [ "a", "e", "c", " ", "m", "e", "c", "f", "c"],
+	"entries": [
+		{
+			"type": "iconic",
+			"label": "iconic_thumbsup_d2000",
+			"description": "both thumbs up",
+			"duration": 2000,
+			"order": 1,
+			"info": {
+				"type": "iconic",
+				"name": "thumbsup",
+				"duration": "2000"
+			}
+		}
+	]
+	}
+}

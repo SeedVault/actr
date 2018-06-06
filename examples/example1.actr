@@ -1,0 +1,113 @@
+/*
+EXAMPLE 1: greeting with neutral body and head responses
+triggers the following sequences in Unity:
+
+melissa_mouth_neutral_500
+melissa_mouth_e_500
+melissa_mouth_o_500
+melissa_mouth_u_500
+melissa_mouth_neutral_500
+melissa_mouth_m_500
+melissa_mouth_a_500
+melissa_mouth_c_500
+melissa_mouth_neutral_500
+
+melissa_head_e9_d1000a
+melissa_head_e10_d1000a
+melissa_head_e10_d2000
+
+melissa_body_e9_d2000
+melissa_body_e9_d1000b
+melissa_body_e9_d1000a
+
+*/
+
+{ "sequence": {
+	"element": "melissa",
+	"total_duration": 4000,
+	"start_delay": 0,
+	"speech": "Hello, Mark.",
+	"phoneme": "həlo, mɑrk",
+	"visemes": [ "e", "o", "u", " ", "m", "a", "c"],
+	"entries": [
+		{
+			"type": "head",
+			"label": "head_e9_d1000a",
+			"description": "neutral1",
+			"duration": 1000,
+			"order": 1,
+			"info": {
+				"type": "head",
+				"emotion": "9",
+				"duration": "1000a",
+				"mouth": 0.5,
+				"eyes": 0.5
+			}
+		},
+		{
+			"type": "head",
+			"label": "head_e10_d1000a",
+			"description": "neutral2",
+			"duration": 1000,
+			"order": 2,
+			"info": {
+				"type": "head",
+				"emotion": "10",
+				"duration": "1000a",
+				"mouth": 0.5,
+				"eyes": 0.5
+			}
+		},
+		{
+			"type": "head",
+			"label": "head_e10_d2000",
+			"description": "neutral2",
+			"duration": 2000,
+			"order": 3,
+			"info": {
+				"type": "head",
+				"emotion": "10",
+				"duration": "2000",
+				"mouth": 0.5,
+				"eyes": 0.5
+			}
+		},
+		{
+			"type": "body",
+			"label": "body_e9_d2000",
+			"description": "neutral1",
+			"duration": 2000,
+			"order": 1,
+			"info": {
+				"type": "body",
+				"emotion": "9",
+				"duration": "2000"
+			}
+		},
+		{
+			"type": "body",
+			"label": "body_e9_d1000b",
+			"description": "neutral1",
+			"duration": 1000,
+			"order": 2,
+			"info": {
+				"type": "body",
+				"emotion": "9",
+				"duration": "1000b"
+			}
+		},
+		{
+			"type": "body",
+			"label": "body_e9_d1000a",
+			"description": "neutral1",
+			"duration": 1000,
+			"order": 3,
+			"info": {
+				"type": "body",
+				"emotion": "9",
+				"duration": "1000a"
+			}
+		}
+	]
+	}
+}
