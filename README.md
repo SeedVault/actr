@@ -1,6 +1,12 @@
 # ACTR: Autonomous Character & Topology Resource
+Animating Emotions by interpolating Fibonacci Chains and Iconic Gestures
 
-## Animating Emotions by interpolating Fibonacci Chains and Iconic Gestures
+### Introduction
+Part of the SEED token project. This is a sneak preview - there is more to come.
+See [the Wiki](https://github.com/SeedVault/SEEDtoken-IP/wiki) for more information.
+
+### About the SEED Token Project
+SEED democratizes AI by offering an open and independent alternative to the monopolies of a few large corporations that currently control conversational user interfaces (CUIs) and AI technologies. SEED's licensed, monetized open-source platform for bots on blockchain supports collaboration and creative compensation that will exceed the proprietary deployments from industry giants. We are also giving users back control of their personal data. Find out more about the SEED Token project at [seedtoken.io](https://seedtoken.io). See the Connect section at the end for contact info.
 
 ### Function
 
