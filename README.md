@@ -2,7 +2,7 @@
 Animating Emotions by interpolating Fibonacci Chains and Iconic Gestures
 
 ### What is ACTR
-The .ACTR project is a 3D presentation standard for avatars. It is a method of generating real-time avatar animation from natural language generation models (NLP).
+The ACTR project is a 3D presentation standard for avatars. It is a method of generating real-time avatar animation from natural language generation models (NLP).
 
 ### Introduction
 Part of the SEED token project. This is a sneak preview - there is more to come.
