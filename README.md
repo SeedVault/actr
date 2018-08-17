@@ -110,15 +110,15 @@ Full list of ACTR animations
  * It is preferred that the animations are not set to have one keyframe per frame
 
  * durations are in milliseconds
- * @ 24 frames per second, the here are the mappings:
-   * 500ms   = 12F
-   * 1000ms  = 24F
-   * 2000ms  = 48F
-   * 3000ms  = 72F
-   * 4000ms  = 96F
-   * 5000ms  = 120F
-   * 8000ms  = 192F
-   * 13000ms = 312F
+ * @ 30 frames per second, the here are the mappings:
+   * 500ms   = 15F
+   * 1000ms  = 30F
+   * 2000ms  = 60F
+   * 3000ms  = 90F
+   * 4000ms  = 120F
+   * 5000ms  = 150F
+   * 8000ms  = 240F
+   * 13000ms = 390F
 
 Mouth entries are so short that ACTR will just use LERP to transition between them.
 
@@ -159,9 +159,9 @@ Iconics are also loopable, starting and ending on the "neutral" keyframe to avoi
 
 Please NOTE the naming convention for the A and B variants on the 1 second ver-sions of each emotion.
 
-Please NOTE the markup indicating which FBX file should contain the animation.
+Please NOTE the markup indicating which glTF/glb file should contain the animation.
 
-<mouth_and_iconic.FBX>
+<mouth_and_iconic.glb>
 
 mouth_o_d500
 mouth_a_d500
@@ -172,9 +172,9 @@ mouth_m_d500
 mouth_u_d500
 mouth_neutral_d500
 
-</mouth_and_iconic.FBX>
+</mouth_and_iconic.glb>
 
-<e9.FBX>
+<e9.glb>
 
 head_e9-A_d1000
 head_e9-B_d1000
@@ -192,9 +192,9 @@ body_e9_d5000
 body_e9_d8000
 body_e9_d13000
 
-</e9.FBX>
+</e9.glb>
 
-<e2.FBX>
+<e2.glb>
 
 head_transition-to-e2_d500
 head_transition-from-e2_d500
@@ -217,9 +217,9 @@ body_e2_d5000
 body_e2_d8000
 body_e2_d13000
 
-</e2.FBX>
+</e2.glb>
 
-<e10.FBX>
+<e10.glb>
 
 head_e10-A_d1000
 head_e10-B_d1000
@@ -237,9 +237,9 @@ body_e10_d5000
 body_e10_d8000
 body_e10_d13000
 
-</e10.FBX>
+</e10.glb>
 
-<e3.FBX>
+<e3.glb>
 
 head_transition-to-e3_d500
 head_transition-from-e3_d500
@@ -262,9 +262,9 @@ body_e3_d5000
 body_e3_d8000
 body_e3_d13000
 
-</e3.FBX>
+</e3.glb>
 
-<e4.FBX>
+<e4.glb>
 
 head_transition-to-e4_d500
 head_transition-from-e4_d500
@@ -287,9 +287,9 @@ body_e4_d5000
 body_e4_d8000
 body_e4_d13000
 
-</e4.FBX>
+</e4.glb>
 
-<mouth_and_iconic.FBX>
+<mouth_and_iconic.glb>
 
 iconic_admiring-A_d1000
 iconic_admiring-A_d2000
@@ -317,9 +317,9 @@ iconic_positive-A_d3000
 iconic_positive-A_d4000
 iconic_positive-A_d5000
 
-</mouth_and_iconic.FBX>
+</mouth_and_iconic.glb>
 
-<e6.FBX>
+<e6.glb>
 
 head_transition-to-e6_d500
 head_transition-from-e6_d500
@@ -342,9 +342,9 @@ body_e6_d5000
 body_e6_d8000
 body_e6_d13000
 
-</e6.FBX>
+</e6.glb>
 
-<e5.FBX>
+<e5.glb>
 
 head_transition-to-e5_d500
 head_transition-from-e5_d500
@@ -367,9 +367,9 @@ body_e5_d5000
 body_e5_d8000
 body_e5_d13000
 
-</e5.FBX>
+</e5.glb>
 
-<e1.FBX>
+<e1.glb>
 
 head_transition-to-e1_d500
 head_transition-from-e1_d500
@@ -392,9 +392,9 @@ body_e1_d5000
 body_e1_d8000
 body_e1_d13000
 
-</e1.FBX>
+</e1.glb>
 
-<e8.FBX>
+<e8.glb>
 
 head_transition-to-e8_d500
 head_transition-from-e9_d500
@@ -417,9 +417,9 @@ body_e8_d5000
 body_e8_d8000
 body_e8_d13000
 
-</e8.FBX>
+</e8.glb>
 
-<e7.FBX>
+<e7.glb>
 
 head_transition-to-e7_d500
 head_transition-from-e7_d500
@@ -442,7 +442,7 @@ body_e7_d5000
 body_e7_d8000
 body_e7_d13000
 
-<mouth_and_iconic.FBX>
+<mouth_and_iconic.glb>
 
 iconic_cheers_d3000
 iconic_wave_d3000
@@ -452,7 +452,7 @@ iconic_thumbsup_d3000
 iconic_onethumbup_d3000
 iconic_pout_d3000
 
-</mouth_and_iconic.FBX>
+</mouth_and_iconic.glb>
 
 ### Iconic Gestures (Default List)
 
