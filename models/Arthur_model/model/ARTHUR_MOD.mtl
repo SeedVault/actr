@@ -1,0 +1,59 @@
+newmtl Hair:eliminar_blinn1SG2
+illum 4
+Kd 0.09 0.05 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.23 0.23
+newmtl Hair:eliminar_pelo_shSG1
+illum 4
+Kd 0.38 0.20 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.16 0.16 0.16
+newmtl blinn4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd eye-texture.jpg
+Ni 1.00
+Ks 0.80 0.80 0.80
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BOTANIC_ARTHUR_MOD_SHIRT.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BOTANIC_ARTHUR_MOD_PANTS.jpg
+Ni 1.00
+Ks 0.18 0.18 0.18
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BOTANIC_ARTHUR_MOD_v03_polySurfaceShape13.jpg
+Ni 1.00
+Ks 0.18 0.18 0.18
+newmtl rig_superheroAni_00:lambert1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
