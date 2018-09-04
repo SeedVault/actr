@@ -2,7 +2,7 @@
 Animating Emotions by interpolating Fibonacci Chains and Iconic Gestures
 
 ### What is ACTR
-The ACTR project is a 3D presentation standard for avatars. It is a method of generating real-time avatar animation from natural language generation models (NLP).
+The ACTR project is a 3D presentation standard for avatars. It is a method of generating real-time avatar animation from natural language generation models (NLP). Check out the [full documentation with tutorial](https://github.com/SeedVault/actr/blob/master/documentation/Avatar%20%26%20Animation%20Creation%20Best%20Practices%20for%20ACTR%20v1-beta.pdf) here.
 
 ### Introduction
 Part of the SEED token project. This is a sneak preview - there is more to come.
@@ -587,7 +587,8 @@ Patents and related intellectual property (full applications available upon requ
 Feel free to throw general questions regarding SEED and what to expect in the following months here on GitHub (or GitLab) at  @consiliera (gaby@seedtoken.io) :sunny: 
 
 **Connect with us elsewhere** 
+- Discuss ACTR on [the actr channel in Discord](https://discord.gg/YmvsEv6)
 - [Follow us on Twitter](https://twitter.com/SEED_token)
-- Always here the latest news first on [Telegram](https://t.me/seedtoken) and [Discord](https://discord.gg/Suv5bFT)
+- Always here the latest news first on [Telegram](https://t.me/seedtoken)
 
 Seed Vault Code (c) Botanic Technologies, Inc. Used under license.
