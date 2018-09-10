@@ -11,6 +11,9 @@ See [the Wiki](https://github.com/SeedVault/SEEDtoken-IP/wiki) for more informat
 ### About the SEED Token Project
 SEED democratizes AI by offering an open and independent alternative to the monopolies of a few large corporations that currently control conversational user interfaces (CUIs) and AI technologies. SEED's licensed, monetized open-source platform for bots on blockchain supports collaboration and creative compensation that will exceed the proprietary deployments from industry giants. We are also giving users back control of their personal data. Find out more about the SEED Token project at [seedtoken.io](https://seedtoken.io). See the Connect section at the end for contact info.
 
+## How to contribute - how to get involved
+Go to our **[Developers Garden](https://developers.seedtoken.io)** to see all featured projects, pick one and fill out the **[Developer Interest Form](https://developers.seedtoken.io/#Developer-Interest-Form)**. If you rather like to discuss ideas before rolling up your sleeves, please come visit our **[Discord channels for developers](https://discord.gg/Suv5bFT)**
+
 ## START HERE
 
 ### Function
@@ -584,10 +587,11 @@ Patents and related intellectual property (full applications available upon requ
 ![Image 4](images/actr_4.png)
 
 ### Connect
-Feel free to throw general questions regarding SEED and what to expect in the following months here on GitHub (or GitLab) at  @consiliera (gaby@seedtoken.io) :sunny: 
+Feel free to throw general questions regarding SEED and what to expect in the following months here on GitHub at  @consiliera (gaby@seedtoken.io) :sunny: 
 
 **Connect with us elsewhere** 
 - Discuss ACTR on [the actr channel in Discord](https://discord.gg/YmvsEv6)
+- Go to our [Developers Garden](https://developers.seedtoken.io) to see all SEED Community projects and find resources
 - [Follow us on Twitter](https://twitter.com/SEED_token)
 - Always here the latest news first on [Telegram](https://t.me/seedtoken)
 
